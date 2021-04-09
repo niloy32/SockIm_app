@@ -1,0 +1,35 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "��E\u0000d\u0000i\u0000t\u0000 \u0000m\u0000e\u0000 \u0000l\u0000a\u0000t\u0000e\u0000r\u0000\r\u0000 \u0000",
+  "main": "server.js",
+  "engines": {
+    "node": "15.13.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt-nodejs": "^0.0.3",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "express-ejs-layouts": "^2.5.0",
+    "express-flash": "^0.0.2",
+    "express-rate-limit": "^5.2.6",
+    "express-session": "^1.17.1",
+    "helmet": "^4.4.1",
+    "method-override": "^3.0.0",
+    "mongodb": "^3.6.6",
+    "nodemon": "^2.0.7",
+    "passport": "^0.4.1",
+    "passport-local": "^1.0.0",
+    "ws": "^7.4.4"
+  },
+  "keywords": []
+}

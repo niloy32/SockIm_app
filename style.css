@@ -1,0 +1,10 @@
+.grid {
+  display: grid;
+  place-items: center;
+  background-color: aqua;
+}
+
+.chats {
+  background-color: aqua;
+  border: 2px;
+}

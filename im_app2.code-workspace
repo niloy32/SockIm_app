@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"cSpell.words": [
+			"chatbox"
+		]
+	},
+	"launch": {
+		"configurations": [
+			{
+				"type": "pwa-chrome",
+				"name": "http://localhost:3500/",
+				"request": "launch",
+				"url": "http://localhost:3500/"
+			}
+		]
+	}
+}

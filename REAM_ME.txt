@@ -1,0 +1,15 @@
+Hello,I managed to add every feature except the database part.
+I didn't use any framework or bootstrap components.
+please download the zip and run the server.js file with node to start the app. 
+The default port is set to 3500.
+I have also hosted the app on heroku and didn't use any Firebase
+or any integrated platform to create the app.
+Please use 2 different Browsers or Incognito mode to log into 2 different users
+
+
+App Link to Heroku- https://sockim.herokuapp.com/
+
+
+Best Regards,
+Tanzimul Haque,
+Contact number -01718948029
